@@ -3,7 +3,10 @@
 
 
 
-# Hey Ho
+# About Me
+
+## Competencies
+<img src=>
 
 ## Examples of Work
 <img src="https://github.com/Geoff-Walker/Geoff-Walker/blob/main/Aspects%20of%20beauty.gif.gif" width="256">
