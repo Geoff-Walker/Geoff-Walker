@@ -6,9 +6,9 @@
 # About Me
 
 ## Competencies
-<img src="https://github.com/Geoff-Walker/Geoff-Walker/blob/main/html.png" width="256">
-<img src="https://github.com/Geoff-Walker/Geoff-Walker/blob/main/css.png" width="256">
-<img src="https://github.com/Geoff-Walker/Geoff-Walker/blob/main/JS.png" width="256">
+<img src="https://github.com/Geoff-Walker/Geoff-Walker/blob/main/html.png" width="256"><img src="https://github.com/Geoff-Walker/Geoff-Walker/blob/main/css.png" width="256"><img src="https://github.com/Geoff-Walker/Geoff-Walker/blob/main/JS.png" width="256">
+
+
 
 ## Examples of Work
 <img src="https://github.com/Geoff-Walker/Geoff-Walker/blob/main/Aspects%20of%20beauty.gif.gif" width="256">
