@@ -13,12 +13,12 @@
 <img src="https://github.com/Geoff-Walker/Geoff-Walker/blob/main/html.png" width="256" height="256">          <img src="https://github.com/Geoff-Walker/Geoff-Walker/blob/main/css.png" width="256" height="256">          <img src="https://github.com/Geoff-Walker/Geoff-Walker/blob/main/JS.png" width="256" height="256"></div>
 
 ## Contact Details
-
+<div align="center">
 ### E-mail:                                 
 geoffwalker@outlook.com                     
 ### Website:
 http://www.geoff-walker.io/
-
+</div>
 
 
 <!-- - 👋 Hi, I’m @Geoff-Walker
