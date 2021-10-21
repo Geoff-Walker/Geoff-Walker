@@ -8,7 +8,7 @@ Hi my name's Geoff and I am a web developer
 
 ## Competencies
 <div align="center">
-<img src="https://github.com/Geoff-Walker/Geoff-Walker/blob/main/html.png" width="256" height="256">          <img src="https://github.com/Geoff-Walker/Geoff-Walker/blob/main/css.png" width="256" height="256">          <img src="https://github.com/Geoff-Walker/Geoff-Walker/blob/main/JS.png" width="256" height="256"></div>
+<img src="https://github.com/Geoff-Walker/Geoff-Walker/blob/main/html.png" width="180" height="180">          <img src="https://github.com/Geoff-Walker/Geoff-Walker/blob/main/css.png" width="180" height="180">          <img src="https://github.com/Geoff-Walker/Geoff-Walker/blob/main/JS.png" width="180" height="180"></div>
 
 ## Contact Details
 ### E-mail:   geoffwalker@outlook.com 
