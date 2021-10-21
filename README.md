@@ -15,7 +15,8 @@
 ## Contact Details
 <div align="center>
 ### E-mail:   geoffwalker@outlook.com 
-### Website:  http://www.geoff-walker.io/</div>
+### Website:  http://www.geoff-walker.io/
+</div>
 
 
 <!-- - 👋 Hi, I’m @Geoff-Walker
