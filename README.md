@@ -14,10 +14,10 @@
 
 ## Contact Details
 
-### E-mail:                                  ### Website:
-
-geoffwalker@outlook.com                      http://www.geoff-walker.io/
-
+### E-mail:                                 
+geoffwalker@outlook.com                     
+### Website:
+http://www.geoff-walker.io/
 
 
 
