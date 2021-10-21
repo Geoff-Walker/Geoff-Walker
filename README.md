@@ -14,11 +14,9 @@
 
 ## Contact Details
 <div align="center">
-### E-mail:
-geoffwalker@outlook.com
+### E-mail:                                  ### Website:
 
-### Website:
-http://www.geoff-walker.io/
+geoffwalker@outlook.com                      http://www.geoff-walker.io/
  </div>
 
 
