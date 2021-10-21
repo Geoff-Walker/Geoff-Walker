@@ -1,5 +1,6 @@
 <img src="https://github.com/Geoff-Walker/Geoff-Walker/blob/main/my-banner.png">
-## About Me
+
+# About Me
 Hi my name's Geoff and I am a web developer
 
 ## Examples of Work
