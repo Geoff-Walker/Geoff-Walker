@@ -7,6 +7,10 @@ If you have a hybrid/remote employment opportunity or would like to discuss work
 
 ## Examples of Work
 <img src="https://github.com/Geoff-Walker/Geoff-Walker/blob/main/Aspects%20of%20beauty.gif.gif" width="256">
+<img src="https://github.com/Geoff-Walker/portfolio-geoff-walker.io/blob/main/Images/project-images/fem-json-activity.jpeg" width="256">
+
+
+
 
 ## Competencies
 <div align="center">
