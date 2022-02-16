@@ -16,9 +16,7 @@ If you have a hybrid/remote employment opportunity or would like to discuss work
 </div>
 
 ## Competencies
-<div align="center">
-
-</div>
+hhhdhiofhifbifbifbifbifbifibfb 
 
 ## Contact Details
 ### E-mail:   geoffwalker@outlook.com 
