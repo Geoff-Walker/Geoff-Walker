@@ -15,9 +15,6 @@ If you have a hybrid/remote employment opportunity or would like to discuss work
  <img src="https://github.com/Geoff-Walker/Geoff-Walker/blob/main/rps.png" width="256"  height="192>
  </div>
 
-
-
-
 ## Competencies
 <div align="center">
 <img src="https://github.com/Geoff-Walker/Geoff-Walker/blob/main/html.png" width="180" height="180">          <img src="https://github.com/Geoff-Walker/Geoff-Walker/blob/main/css.png" width="180" height="180">          <img src="https://github.com/Geoff-Walker/Geoff-Walker/blob/main/JS.png" width="180" height="180"></div>
