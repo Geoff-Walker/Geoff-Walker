@@ -6,8 +6,10 @@ Hi my names Geoff and I live in rural Lincolnshire with my beautiful wife Helen.
 If you have a hybrid/remote employment opportunity or would like to discuss work on a freelance basis, please don't hesitate to contact me. Thanks for taking the time to check me out, if you would like to know a little more about me and my work please take a look at my website: http://www.geoff-walker.io/
 
 ## Examples of Work
+<div align="center">
 <img src="https://github.com/Geoff-Walker/Geoff-Walker/blob/main/Aspects%20of%20beauty.gif.gif" width="256">
 <img src="https://github.com/Geoff-Walker/portfolio-geoff-walker.io/blob/main/Images/project-images/fem-json-activity.jpeg" width="256">
+ </div>
 
 
 
