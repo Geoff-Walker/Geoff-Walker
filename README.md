@@ -8,9 +8,11 @@ If you have a hybrid/remote employment opportunity or would like to discuss work
 ## Examples of Work
 <div align="center">
 <img src="https://github.com/Geoff-Walker/Geoff-Walker/blob/main/Aspects%20of%20beauty.gif.gif" width="256">
+<img src="https://github.com/Geoff-Walker/Geoff-Walker/blob/main/geoff-walker.io.gif" width="256" height="192">
+<img src="https://github.com/Geoff-Walker/Geoff-Walker/blob/main/geoff-walker.io.gif" width="256" height="192">
 <img src="https://github.com/Geoff-Walker/portfolio-geoff-walker.io/blob/main/Images/project-images/fem-json-activity.jpeg" width="256">
 <img src="https://github.com/Geoff-Walker/odin-calculator/blob/main/calculator.jpeg" width="256">
- <img src="https://github.com/Geoff-Walker/Geoff-Walker/blob/main/geoff-walker.io.gif" width="256" height="192">
+
  
 
  
