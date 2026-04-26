@@ -1,10 +1,34 @@
-<img src="https://github.com/Geoff-Walker/Geoff-Walker/blob/main/my-banner.png">
+# Geoff Walker — AI Systems Engineer
 
-# About Me
-Hi my names Geoff and I live in rural Lincolnshire with my beautiful wife Helen. After a nasty fall left me an amputee, my established career as an engineer ended abruptly, little did I know when I started coding as a hobby that my true calling for programming had only just begun. Since then I have risen to occupy a senior development eningeer role within the pharmaceitucal regulatory sector and recently embarked on the exciting prospect of taking that to a new level with Ai Systems Engineering.
+Self-taught developer since 2020. Building multi-agent AI pipelines, fullstack applications, and the infrastructure to run them reliably.
 
-If you are looking for an experienced full stack developer who is pushing the boundaries with Ai Systems Engineering and have an exciting employment opportunity as an Ai System Engineer, please don't hesitate to contact me.
+Based in Lincolnshire, UK. Working remotely.
 
-## Contact Details
-### E-mail:   geoffwalker@outlook.com 
+---
 
+## What I build
+
+**[AppFactory](https://github.com/Geoff-Walker/AppFactory-Architecture)** — an autonomous multi-agent build pipeline. LangGraph orchestrates agents running headless on a Linux VM (Design, QA, Dev, Infrastructure, Research). Human-in-the-loop gates pause the pipeline at approval points; it only resumes when a decision is recorded in state. Observability via Langfuse. Secrets via Infisical.
+
+**[FamilyCookbook](https://github.com/Geoff-Walker/FamilyCookbook)** — recipe app with semantic search (pgvector + OpenAI embeddings) and AI image generation. Angular, .NET 8, PostgreSQL. In production and in daily use.
+
+**Tom** — AI music teacher with longitudinal memory. Daily check-ins, practice planning, sheet music ingestion. n8n, Claude API, mem0, Qdrant.
+
+**Pippa** — AI welfare adviser for the UK PIP disability benefit process. Domain knowledge injection, session continuity, safeguarding protocols. Built from personal experience of the system.
+
+---
+
+## Stack
+
+`LangGraph` `Claude API` `n8n` `Python` `TypeScript` `C# / .NET` `Angular`  
+`PostgreSQL + pgvector` `Docker` `Azure / Terraform` `Infisical` `Langfuse`  
+`TrueNAS SCALE` `GitHub Actions`
+
+Prior: GAMP 5 regulated pharma (Melior Solutions). Led the company AI working group.
+
+---
+
+## Contact
+
+geoffwalker@outlook.com  
+[linkedin.com/in/geoff-walker-a3ab02227](https://linkedin.com/in/geoff-walker-a3ab02227)
